@@ -1,0 +1,6 @@
+H:\vs 2015\Socket\Scoket编程\005-聊天室-tcp客户端\bin\Debug\005-聊天室-tcp客户端.exe.config
+H:\vs 2015\Socket\Scoket编程\005-聊天室-tcp客户端\bin\Debug\005-聊天室-tcp客户端.exe
+H:\vs 2015\Socket\Scoket编程\005-聊天室-tcp客户端\bin\Debug\005-聊天室-tcp客户端.pdb
+H:\vs 2015\Socket\Scoket编程\005-聊天室-tcp客户端\obj\Debug\005-聊天室-tcp客户端.csprojResolveAssemblyReference.cache
+H:\vs 2015\Socket\Scoket编程\005-聊天室-tcp客户端\obj\Debug\005-聊天室-tcp客户端.exe
+H:\vs 2015\Socket\Scoket编程\005-聊天室-tcp客户端\obj\Debug\005-聊天室-tcp客户端.pdb

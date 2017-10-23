@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Scoket_tcp.unity
+  isLoaded: 1
+  isActive: 1
